@@ -1,5 +1,5 @@
 # GeoJSON API
-
+aaaaaaaaaaaaaa
 このリポジトリは、CSV フォーマットのデータを GitHub Actions で GeoJSON に変換し API として公開するためのテンプレートリポジトリです。
 
 Geolonia Maps なら以下のような簡単なマークアップで地図に表示することが可能です。
